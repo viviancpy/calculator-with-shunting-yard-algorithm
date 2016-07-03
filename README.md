@@ -1,4 +1,4 @@
-# viviancpy-simple-calculator
+# A calculator implementing Shunting-yard algorithm
 I got a requirement from a trader to create a calculator for him to defined his customized formular like Pivot = (High+Low+Open+Close)/4 and plot it on the trading app he is using.
 
 While I thought calculating +-*/ is something simple, how to program the computer the do it right is any other piece of art.
